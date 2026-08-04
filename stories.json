@@ -1,0 +1,14 @@
+{
+  "data": "2026-08-04",
+  "atualizado_em": "2026-08-04T15:36-03:00",
+  "slots": {
+    "manha": "SEM_ARTE",
+    "tarde": "SEM_ARTE",
+    "noite": "pendente"
+  },
+  "arquivos": [],
+  "cursores": { "manha": "00", "tarde": "00", "noite": "00" },
+  "canal": null,
+  "pendencias": ["noite (janela abre 17:00, depende de arte nova)"],
+  "observacao": "Nenhuma arte elegivel nas pastas de slot; nada publicado neste disparo."
+}
