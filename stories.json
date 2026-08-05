@@ -1,14 +1,14 @@
 {
+  "atualizado_em": "2026-08-04T18:35-03:00",
   "data": "2026-08-04",
-  "atualizado_em": "2026-08-04T15:36-03:00",
   "slots": {
-    "manha": "SEM_ARTE",
-    "tarde": "SEM_ARTE",
-    "noite": "pendente"
+    "manha": { "status": "SEM_ARTE", "arquivo": null },
+    "tarde": { "status": "SEM_ARTE", "arquivo": null },
+    "noite": { "status": "SEM_ARTE", "arquivo": null }
   },
-  "arquivos": [],
+  "postados_hoje": 0,
   "cursores": { "manha": "00", "tarde": "00", "noite": "00" },
-  "canal": null,
-  "pendencias": ["noite (janela abre 17:00, depende de arte nova)"],
-  "observacao": "Nenhuma arte elegivel nas pastas de slot; nada publicado neste disparo."
+  "canal_usado": null,
+  "pausado": false,
+  "pendencias": "Dia fechou sem nenhuma arte nas pastas de slot. Os 3 slots de 04/08 morreram com o dia. Nenhuma falha de postagem: o navegador nao foi aberto porque nao havia arquivo elegivel."
 }
