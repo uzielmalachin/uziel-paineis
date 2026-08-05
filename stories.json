@@ -1,14 +1,14 @@
 {
-  "atualizado_em": "2026-08-04T18:35-03:00",
-  "data": "2026-08-04",
+  "data": "2026-08-05",
+  "atualizado_em": "2026-08-05 08:35 America/Sao_Paulo",
   "slots": {
-    "manha": { "status": "SEM_ARTE", "arquivo": null },
-    "tarde": { "status": "SEM_ARTE", "arquivo": null },
-    "noite": { "status": "SEM_ARTE", "arquivo": null }
+    "manha": "SEM_ARTE",
+    "tarde": "pendente",
+    "noite": "pendente"
   },
-  "postados_hoje": 0,
+  "arquivos_postados": [],
   "cursores": { "manha": "00", "tarde": "00", "noite": "00" },
-  "canal_usado": null,
-  "pausado": false,
-  "pendencias": "Dia fechou sem nenhuma arte nas pastas de slot. Os 3 slots de 04/08 morreram com o dia. Nenhuma falha de postagem: o navegador nao foi aberto porque nao havia arquivo elegivel."
+  "canal": null,
+  "pendencias": ["tarde (abre 12:00)", "noite (abre 17:00)"],
+  "observacao": "Pastas de arte vazias pelo segundo dia; nenhum disparo publicou."
 }
