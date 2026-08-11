@@ -1,14 +1,15 @@
 {
-  "data": "2026-08-05",
-  "atualizado_em": "2026-08-05 08:35 America/Sao_Paulo",
+  "atualizado_em": "2026-08-11T18:16:00-03:00",
+  "data": "2026-08-11",
   "slots": {
     "manha": "SEM_ARTE",
-    "tarde": "pendente",
-    "noite": "pendente"
+    "tarde": "SEM_ARTE",
+    "noite": "SEM_ARTE"
   },
   "arquivos_postados": [],
   "cursores": { "manha": "00", "tarde": "00", "noite": "00" },
-  "canal": null,
-  "pendencias": ["tarde (abre 12:00)", "noite (abre 17:00)"],
-  "observacao": "Pastas de arte vazias pelo segundo dia; nenhum disparo publicou."
+  "canal_usado": null,
+  "pendencias": "Fila vazia desde 04/08 (8o dia). Nenhuma arte jpg/png em stories/manha, stories/tarde, stories/noite nem fura-fila em stories/datas. Nada postado; navegador nao foi aberto.",
+  "pausado": false,
+  "shabat": false
 }
