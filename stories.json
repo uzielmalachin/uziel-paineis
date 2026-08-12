@@ -1,13 +1,10 @@
 {
   "data": "2026-08-12",
-  "atualizado": "2026-08-12T15:36:00-03:00",
-  "slots": {
-    "manha": "SEM_ARTE",
-    "tarde": "SEM_ARTE",
-    "noite": "pendente"
-  },
+  "atualizado": "2026-08-12 18:34 America/Sao_Paulo",
+  "slots": { "manha": "SEM_ARTE", "tarde": "SEM_ARTE", "noite": "SEM_ARTE" },
+  "postados": 0,
   "arquivos": [],
   "cursores": { "manha": "00", "tarde": "00", "noite": "00" },
   "canal": null,
-  "pendencias": "sem arte nas pastas de slot desde 04/08 — nada publicavel; janela da noite abre 17:00"
+  "pendencias": "Nenhum slot pendente: dia 12/08 fechado, os tres slots morreram como SEM_ARTE. Fila vazia desde 04/08 (9o dia). Proxima janela: manha de 13/08."
 }
