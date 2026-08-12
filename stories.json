@@ -1,15 +1,14 @@
 {
-  "atualizado_em": "2026-08-11T18:35:00-03:00",
-  "data": "2026-08-11",
+  "data": "2026-08-12",
+  "atualizado_em": "2026-08-12 09:17 America/Sao_Paulo",
   "slots": {
     "manha": "SEM_ARTE",
-    "tarde": "SEM_ARTE",
-    "noite": "SEM_ARTE"
+    "tarde": "pendente",
+    "noite": "pendente"
   },
   "arquivos_postados": [],
   "cursores": { "manha": "00", "tarde": "00", "noite": "00" },
-  "canal_usado": null,
-  "pendencias": "fila vazia desde 04/08 - 8o dia sem arte; nenhum jpg/png em stories/manha, /tarde, /noite nem fura-fila em stories/datas",
-  "pausado": false,
-  "shabat": false
+  "canal": null,
+  "pendencias": "Fila de arte vazia ha 9 dias. Slot da manha morreu como SEM_ARTE. Tarde e noite ainda salvaveis se a arte entrar antes de 12:00 e 17:00.",
+  "pausado": false
 }
